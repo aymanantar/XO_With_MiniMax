@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1665431136 source:f:\programming ii\cs213-2022-2023\examples\xo_oop\src\xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1665432475 f:\programming ii\cs213-2022-2023\examples\xo_oop\include\xo_classes.hpp
+
+1665488288 source:f:\programming ii\cs213-2022-2023\examples\xo_oop\src\xo_app.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1665431452 source:f:\programming ii\cs213-2022-2023\examples\xo_oop\src\xo_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1665481131 source:f:\programming ii\cs213-2022-2023\examples\xo_oop\src\xo_gamemanager.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1665504019 source:c:\users\compu city\desktop\xxoo\xo_oop\src\xo_app.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1668231737 c:\users\compu city\desktop\xxoo\xo_oop\include\xo_classes.hpp
+
+1668234307 source:c:\users\compu city\desktop\xxoo\xo_oop\src\xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1665504019 source:c:\users\compu city\desktop\xxoo\xo_oop\src\xo_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1668235095 source:c:\users\compu city\desktop\xxoo\xo_oop\src\xo_gamemanager.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1665504019 source:c:\users\compu city\desktop\xo\xo_oop\src\xo_app.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1668231737 c:\users\compu city\desktop\xo\xo_oop\include\xo_classes.hpp
+
+1668234307 source:c:\users\compu city\desktop\xo\xo_oop\src\xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
+1668235391 source:c:\users\compu city\desktop\xo\xo_oop\src\xo_gamemanager.cpp
+	<iostream>
+	"../include/XO_Classes.hpp"
+
+1665504019 source:c:\users\compu city\desktop\xo\xo_oop\src\xo_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"../include/XO_Classes.hpp"
+
